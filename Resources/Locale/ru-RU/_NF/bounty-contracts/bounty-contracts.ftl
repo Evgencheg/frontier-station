@@ -11,11 +11,6 @@ bounty-contracts-category-other = Другое
 # Cartridge
 bounty-contracts-program-name = Охота за головами
 
-## Radio Announcements
-
-bounty-contracts-radio-name = Сервис охоты за головами
-bounty-contracts-radio-create = Новый заказ на голову "{ $target }". Награда: { $reward }$.
-
 ## UI - List contracts
 
 bounty-contracts-ui-list-no-contracts = Заказ нет...
